@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\SharpDevelop Projects\HYDRA\HYDRA\bin\Debug\HYDRA.exe
+C:\Users\hp\Documents\SharpDevelop Projects\HYDRA\HYDRA\bin\Debug\HYDRA.pdb
+C:\Users\hp\Documents\SharpDevelop Projects\HYDRA\HYDRA\obj\Debug\HYDRA.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\SharpDevelop Projects\HYDRA\HYDRA\obj\Debug\HYDRA.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\SharpDevelop Projects\HYDRA\HYDRA\obj\Debug\HYDRA.exe
+C:\Users\hp\Documents\SharpDevelop Projects\HYDRA\HYDRA\obj\Debug\HYDRA.pdb
+C:\Users\hp\Documents\SharpDevelop Projects\HYDRA\HYDRA\obj\Debug\HYDRA.Form1.resources
+C:\Users\hp\Documents\SharpDevelop Projects\HYDRA\HYDRA\obj\Debug\HYDRA.Form2.resources
+C:\Users\hp\Documents\SharpDevelop Projects\HYDRA\HYDRA\obj\Debug\HYDRA.Form3.resources
+C:\Users\hp\Documents\SharpDevelop Projects\HYDRA\HYDRA\obj\Debug\HYDRA.MForm.resources
